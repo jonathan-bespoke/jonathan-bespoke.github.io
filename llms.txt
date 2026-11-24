@@ -4,6 +4,11 @@
 
 Jonathan Kiraly: mais de 20 anos em vendas. Contratos via Bespoke AI Solutions. Credenciais: Primeiro especialista de CRM Datacrazy, Partner Platinum, Partner Homologado, Tester do CRM, Creator, Professor da Formação Crazy.
 
+## Bespoke AI Solutions: valores, visão e missão
+- Valores: Cada decisão (desde a arquitetura do modelo até os detalhes da interface) é pensada para valorizar proporções, movimento e conforto operacional, garantindo uma experiência única, que une precisão e suavidade, transformando complexidade em harmonia.
+- Visão: Nosso compromisso vai além da implementação tecnológica: buscamos harmonia entre inteligência e propósito, criando sistemas de IA que se integram ao fluxo do cliente com naturalidade e elegância. Assim como uma peça feita à mão, nossa IA deve ser invisível na perfeição, percebida apenas pelo resultado: eficiência, precisão e impacto.
+- Missão: Tratamos cada projeto de IA como uma obra de alfaiataria: cada solução nasce sob medida, projetada para se encaixar perfeitamente às necessidades, estrutura e estilo de operação de nossos clientes.
+
 ## Serviços
 - [CRM e processos comerciais](https://bespokeai.com.br/servicos/crm)
 - [Prospecção, comunicação e aquisição](https://bespokeai.com.br/servicos/prospeccao)
