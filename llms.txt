@@ -1,0 +1,84 @@
+# Jonathan Kiraly
+
+> Jonathan Kiraly, conhecido nas redes como Jonathan Bespoke, implementa CRM e IA sob medida, como finas peças de alfaiataria. É um vendedor com mais de 20 anos de experiência que aprendeu a moldar a tecnologia à operação de cada cliente.
+
+Jonathan Kiraly: mais de 20 anos em vendas. Contratos via Bespoke AI Solutions. Credenciais: Primeiro especialista de CRM Datacrazy, Partner Platinum, Partner Homologado, Tester do CRM, Creator, Professor da Formação Crazy.
+
+## Serviços
+- [CRM e processos comerciais](https://bespokeai.com.br/servicos/crm)
+- [Prospecção, comunicação e aquisição](https://bespokeai.com.br/servicos/prospeccao)
+- [Inteligência artificial aplicada](https://bespokeai.com.br/servicos/ia-aplicada)
+- [Customer Success e pós-venda](https://bespokeai.com.br/servicos/customer-success)
+- [Sistemas internos sob medida](https://bespokeai.com.br/servicos/sistemas-internos)
+- [Dados, indicadores e dashboards](https://bespokeai.com.br/servicos/dashboards)
+- [API Oficial do WhatsApp](https://bespokeai.com.br/servicos/api-oficial-whatsapp)
+- [Trackeamento Meta](https://bespokeai.com.br/servicos/trackeamento-meta)
+- [Integrações via API](https://bespokeai.com.br/servicos/integracoes)
+- [Planos e parceria](https://bespokeai.com.br/servicos)
+
+## Educação
+- [Formação Crazy](https://bespokeai.com.br/educacao/formacao-crazy)
+- [Mentorias (individual e em grupo)](https://bespokeai.com.br/educacao/mentorias)
+- [Consultoria](https://bespokeai.com.br/educacao/consultoria)
+- [Lives (abertas e fechadas)](https://bespokeai.com.br/educacao/lives)
+
+## Vídeos
+- [#3 - O que cada bloco de automação faz: Gatilho - Conversas](https://bespokeai.com.br/videos)
+- [#2 - O que cada bloco de automação faz: Gatilho - Negócios](https://bespokeai.com.br/videos)
+- [#1 - O que cada bloco de automação faz: Gatilho - Leads](https://bespokeai.com.br/videos)
+- [Como enviar avisos em grupos de Whatsapp com o CRM Datacrazy](https://bespokeai.com.br/videos)
+- [Formas de Automatizar Seu Funil #3: Automação por Mensagens](https://bespokeai.com.br/videos)
+- [Formas de Automatizar Seu Funil #2: Automação por Atividades](https://bespokeai.com.br/videos)
+- [Formas de Automatizar Seu Funil #1: Conheça as Opções](https://bespokeai.com.br/videos)
+- [Como Enviar Links de Conversa e Negócios em Mensagens de Aviso](https://bespokeai.com.br/videos)
+- [Como Fazer e Integrar um Formulário do Lovable com o CRM Datacrazy](https://bespokeai.com.br/videos)
+- [Como Enviar e Receber Dados no Mesmo Bloco de API](https://bespokeai.com.br/videos)
+- [+5 Hacks SECRETOS do CRM Datacrazy](https://bespokeai.com.br/videos)
+- [Contrato fechado ou faturamento real?](https://bespokeai.com.br/videos)
+- [E-commerce com API oficial e CRM](https://bespokeai.com.br/videos)
+- [Mentoria de 1 minuto](https://bespokeai.com.br/videos)
+- [IA que pré-qualifica leads](https://bespokeai.com.br/videos)
+- [Cliente que dá dor de cabeça](https://bespokeai.com.br/videos)
+- [Tecnologia acima das automações](https://bespokeai.com.br/videos)
+- [Risco para donos de agência](https://bespokeai.com.br/videos)
+- [Programa de afiliado](https://bespokeai.com.br/videos)
+- [Follow-up de leads em clínicas](https://bespokeai.com.br/videos)
+- ["Trago verdades"](https://bespokeai.com.br/videos)
+- [Hipertrofia cerebral](https://bespokeai.com.br/videos)
+- ["Vai se sentir vivo um pouco!"](https://bespokeai.com.br/videos)
+- [Carrinho abandonado + CRM](https://bespokeai.com.br/videos)
+- [Postura de quem está começando](https://bespokeai.com.br/videos)
+- [Infoproduto que roda só no WhatsApp](https://bespokeai.com.br/videos)
+- [CRM para escritório de advocacia](https://bespokeai.com.br/videos)
+- [Parte 2: como cobrar seu cliente](https://bespokeai.com.br/videos)
+- [Cliente certo quando o ticket é baixo](https://bespokeai.com.br/videos)
+- [Operação sem atendente humano](https://bespokeai.com.br/videos)
+- [Documente seus projetos](https://bespokeai.com.br/videos)
+- [IA no pré-atendimento do comercial](https://bespokeai.com.br/videos)
+- [Parte 1: o problema de vender implementação](https://bespokeai.com.br/videos)
+- [Aviso para quem é só implementador](https://bespokeai.com.br/videos)
+- ["Isso tem funcionado muito aqui"](https://bespokeai.com.br/videos)
+- ["É isso mesmo ou falei besteira?"](https://bespokeai.com.br/videos)
+- ["Tô errado?"](https://bespokeai.com.br/videos)
+- [Negociações movidas automaticamente](https://bespokeai.com.br/videos)
+- [Estratégia "tia do bombeiro"](https://bespokeai.com.br/videos)
+- [Produto extra para implementações](https://bespokeai.com.br/videos)
+- [Nem todo usuário precisa disso](https://bespokeai.com.br/videos)
+- [Economize tokens com Crazy Agents](https://bespokeai.com.br/videos)
+- [Não seja esse tipo de profissional](https://bespokeai.com.br/videos)
+- [Roleta de atendimento com vibecoding](https://bespokeai.com.br/videos)
+- [5 Hacks Secretos das Automações no CRM Datacrazy!](https://bespokeai.com.br/videos)
+- [Aprenda a usar o Extrator de Parâmetros da Crazy IA!](https://bespokeai.com.br/videos)
+- [Aprenda a Usar o Gere um Texto com Base na Conversa da CrazyIA!](https://bespokeai.com.br/videos)
+- [Aprenda a Usar o Sentimento da Conversa da Crazy IA!](https://bespokeai.com.br/videos)
+- [Aprenda a Usar Intenção de Conversa da Crazy IA!](https://bespokeai.com.br/videos)
+- [Aprenda a Usar o Assistente de Chat da Crazy IA!](https://bespokeai.com.br/videos)
+- [Aprenda a Usar a Transcrição de Áudio da Crazy IA!](https://bespokeai.com.br/videos)
+
+## Blog
+- [Vale a pena usar WhatsApp não oficial para economizar nas mensagens?](https://bespokeai.com.br/blog/vale-a-pena-usar-whatsapp-nao-oficial-para-economizar-nas-mensagens): A conta entre a tarifa da API oficial do WhatsApp e o custo de um número bloqueado, com o caso real de uma loja de motos de São Paulo.
+- [Lead e negociação não são a mesma coisa, e misturar os dois estraga o seu relatório](https://bespokeai.com.br/blog/lead-e-negociacao-nao-sao-a-mesma-coisa): Lead é a pessoa. Negociação é cada tentativa de venda. Veja por que separar os dois protege o histórico do cliente e corrige a sua taxa de conversão.
+
+## Sobre
+- [Jonathan Kiraly](https://bespokeai.com.br/sobre)
+- [Contato](https://bespokeai.com.br/contato)
