@@ -23,6 +23,17 @@ Jonathan Kiraly: mais de 20 anos em vendas. Contratos via Bespoke AI Solutions. 
 - [Lives (abertas e fechadas)](https://bespokeai.com.br/educacao/lives)
 
 ## Vídeos
+- [#3 - O que cada bloco de automação faz: Gatilho - Conversas](https://bespokeai.com.br/videos)
+- [#2 - O que cada bloco de automação faz: Gatilho - Negócios](https://bespokeai.com.br/videos)
+- [#1 - O que cada bloco de automação faz: Gatilho - Leads](https://bespokeai.com.br/videos)
+- [Como enviar avisos em grupos de Whatsapp com o CRM Datacrazy](https://bespokeai.com.br/videos)
+- [Formas de Automatizar Seu Funil #3: Automação por Mensagens](https://bespokeai.com.br/videos)
+- [Formas de Automatizar Seu Funil #2: Automação por Atividades](https://bespokeai.com.br/videos)
+- [Formas de Automatizar Seu Funil #1: Conheça as Opções](https://bespokeai.com.br/videos)
+- [Como Enviar Links de Conversa e Negócios em Mensagens de Aviso](https://bespokeai.com.br/videos)
+- [Como Fazer e Integrar um Formulário do Lovable com o CRM Datacrazy](https://bespokeai.com.br/videos)
+- [Como Enviar e Receber Dados no Mesmo Bloco de API](https://bespokeai.com.br/videos)
+- [+5 Hacks SECRETOS do CRM Datacrazy](https://bespokeai.com.br/videos)
 - [Contrato fechado ou faturamento real?](https://bespokeai.com.br/videos)
 - [E-commerce com API oficial e CRM](https://bespokeai.com.br/videos)
 - [Mentoria de 1 minuto](https://bespokeai.com.br/videos)
@@ -56,6 +67,13 @@ Jonathan Kiraly: mais de 20 anos em vendas. Contratos via Bespoke AI Solutions. 
 - [Economize tokens com Crazy Agents](https://bespokeai.com.br/videos)
 - [Não seja esse tipo de profissional](https://bespokeai.com.br/videos)
 - [Roleta de atendimento com vibecoding](https://bespokeai.com.br/videos)
+- [5 Hacks Secretos das Automações no CRM Datacrazy!](https://bespokeai.com.br/videos)
+- [Aprenda a usar o Extrator de Parâmetros da Crazy IA!](https://bespokeai.com.br/videos)
+- [Aprenda a Usar o Gere um Texto com Base na Conversa da CrazyIA!](https://bespokeai.com.br/videos)
+- [Aprenda a Usar o Sentimento da Conversa da Crazy IA!](https://bespokeai.com.br/videos)
+- [Aprenda a Usar Intenção de Conversa da Crazy IA!](https://bespokeai.com.br/videos)
+- [Aprenda a Usar o Assistente de Chat da Crazy IA!](https://bespokeai.com.br/videos)
+- [Aprenda a Usar a Transcrição de Áudio da Crazy IA!](https://bespokeai.com.br/videos)
 
 ## Blog
 - [A Meta é a Receita Federal: por que driblar a API oficial não fecha a conta](https://bespokeai.com.br/blog/a-meta-e-a-receita-federal-por-que-driblar-a-api-oficial-nao-fecha-a-conta): Uma loja de motos perdeu o número e uma venda de R$ 23.450 para não pagar R$ 300 por mês. Veja a conta do risco e o que a Meta cobra hoje.
